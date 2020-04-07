@@ -1,0 +1,5 @@
+VISIBILIDAD: tiene color muy llamativo los enlaces nose puede diferenciar esta en desorden cuando deberia estar en orden alfabetico 
+feedback: tiene ruido visual , no tiene descanso visual,
+Restricciones: no tiene restricciones 
+mapping: no cuenta con maoing del sitio
+uso:si cuenta la contabilidad del uso que le dan a la pagina ya que cuenta con un contador de vistas 

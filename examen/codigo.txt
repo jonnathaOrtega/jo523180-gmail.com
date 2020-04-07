@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Examen</title>
+</head>
+<body>
+
+<h1>Instituto Tecnològico Superior  &quot;Juan Montalvo&quot;</h1>
+
+
+<p>This is a paragraph.</p>
+<div>
+ <ul class=><a href="/" title= >INICIO</a></li>
+<li class=><a href=>NOSOTROS</a></a></li>
+
+<li class="expanded"><a href=>OFERTA ACADÉMICA</a></li>
+
+<li class="expanded"><a href=>INVESTIGACIÓN Y VINCULACIÓN</a><ul class="menu"><a/>
+<li class="expanded"><a href= >ADMISIÓN Y NIVELACIÓN</a></li>
+
+<li class="expanded"><a href=>NOTICIAS</a></li>
+
+<li class="expanded"><a href=>BITÁCORA</a><ul class="menu"></li>
+
+
+<li class=><a href=>UBIQUENOS</a></li>
+</ul>       </div>
+      </nav>
+     </div>
+</div>
+
+<div id="content" class="sixteen columns">
+   <header>
+<h2 class="title" ><a href="/node/281">INFORMACIÓN RELEVANTE</a></h2>
+ </header>
+  
+  <div class="content node-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img src="http://instituto.juanmontalvoloja.edu.ec/sites/default/files/Comunicado3.png" style="width:80%;height:650px; margin-top:20px; margin-left:90px; border:none;" /><br /><img src="http://instituto.juanmontalvoloja.edu.ec/sites/default/files/Calendario%20acad%C3%A9mico%20emergencia%202020.jpg" style="width:80%;height:650px; margin-top:20px; margin-left:90px; border:none;" /><br /><img src="http://instituto.juanmontalvoloja.edu.ec/sites/default/files/Comunicado2.jpeg" style="width:80%;height:650px; margin-top:20px; margin-left:90px; border:none;" /></p></div></div></div>  </div>
+
+    <footer>
+      <li class="node-readmore first"><a href="/node/281" rel="tag" title="INFORMACIÓN RELEVANTE"> <span class="element-invisible">  INFORMACIÓN RELEVANTE</span></a></li>
+
+
+
+  <div id="bottom" class="container">
+   <div class="sixteen columns botblck">
+  <div id="block-block-1">
+
+      
+  <div class="content">
+    <p></p><center><br /><h2>Contador de visitas</h2>
+<p><img src="http://counter2.01counter.com/private/contadorvisitasgratis.php?c=046b7d12cd5b25417b9c680267ee2797" border="0" title="contador de visitas para mi pagina web" alt="contador de visitas para mi pagina web" /></p></center>
+  </div>
+</div>
+
+<div id="copyright" class="container">
+ <div class="credit">Dirección: Av, Emiliano Ortega 13-75 y Lourdes <br/>Contáctanos: (07) - 2723938 / (07) - 2723787  Ext. 17 <br/>Email: itsjm.secretaria@juanmontalvoloja.edu.ec 
+</div>
+</body>
+</html>
